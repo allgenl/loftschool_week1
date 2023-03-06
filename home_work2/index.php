@@ -1,6 +1,6 @@
 <?php
 
-require('functions.php');
+include "../home_work2/scr/functions.php";
 
 // task #1
 echo "<p>Task 1</p>";
